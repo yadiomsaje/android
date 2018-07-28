@@ -1,3 +1,5 @@
+# Repository of Android Fork by Yadiomsaje
+
 OwnTracks for Android
 =======
 
